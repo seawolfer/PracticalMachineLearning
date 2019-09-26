@@ -8,7 +8,7 @@ do it. In this project, your goal will be to use data from accelerometers on the
 were asked to perform barbell lifts correctly and incorrectly in 5 different ways. More information is available from the website 
 here: http://web.archive.org/web/20161224072740/http:/groupware.les.inf.puc-rio.br/har (see the section on the Weight Lifting Exercise 
 Dataset).
-
+ 
 ## Data
 
 The training data for this project are available here:
